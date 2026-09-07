@@ -305,9 +305,3 @@ Run `scripts/12_model_comparison_report.py` (Phase 1) and
    re-identification (DeepSORT/ByteTrack-style) remain future work.
 5. More annotated video remains the single highest-leverage improvement
    available — not something further tuning can substitute for.
-
----
-
-*This document and the accompanying figures in this folder were prepared
-by Ashutosh Kumar as a project summary. See the repository root for the
-live, always-current `README.md` and `docs/RUN_GUIDE.md`.*
