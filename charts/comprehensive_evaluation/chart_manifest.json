@@ -1,0 +1,40 @@
+{
+  "source": "Saved outer held-out predictions; no model retraining",
+  "labels": {
+    "O-RF": "Original43_RF",
+    "O-XGB": "Original43_XGB",
+    "K-RF": "Kalman_RF",
+    "K-XGB": "Kalman_XGB",
+    "KT-RF": "KalmanTemporal_RF",
+    "KT-XGB": "KalmanTemporal_XGB"
+  },
+  "figures": {
+    "event_metrics_comparison": "Precision, recall and F1 before/after event-focused extraction.",
+    "event_outcome_matrices": "Count matrices; not binary confusion matrices. Detected + missed = 64.",
+    "frame_metrics_comparison": "Frame precision, recall, F1 and ROC-AUC for both extraction strategies.",
+    "frame_confusion_matrices": "Binary confusion counts for event-focused thresholds. Rows=true, columns=prediction.",
+    "occlusion_conditioned_f1": "Visibility-conditioned F1 for both threshold strategies. Missingness is only a proxy.",
+    "roc_curves": "All-frame ROC from saved held-out scores.",
+    "occlusion_conditioned_roc_curves": "ROC from saved held-out scores, partitioned by detector visibility.",
+    "event_timeline_example": "Fixed 40-120 s excerpt; illustrative, not a representative-performance claim.",
+    "event_timeline_full": "Full recording, all six models and both extraction strategies.",
+    "trajectory_bridging_example_TIPL": "Longest within-group missing run with >=2 samples, all Kalman states predicted and age <=1.5 s; earliest tie.",
+    "trajectory_bridging_example_TIPR": "Longest within-group missing run with >=2 samples, all Kalman states predicted and age <=1.5 s; earliest tie."
+  },
+  "trajectory_examples": {
+    "TIPL": {
+      "start_s": 34.355,
+      "last_missing_s": 35.533,
+      "reacquisition_s": 35.729,
+      "missing_samples": 7,
+      "group": 1
+    },
+    "TIPR": {
+      "start_s": 199.846,
+      "last_missing_s": 200.632,
+      "reacquisition_s": 200.828,
+      "missing_samples": 5,
+      "group": 4
+    }
+  }
+}

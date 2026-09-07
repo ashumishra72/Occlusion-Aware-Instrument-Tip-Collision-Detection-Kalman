@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="688.59pt" height="460.427606pt" viewBox="0 0 688.59 460.427606" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-07T01:20:16.126987</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 460.427606 
+L 688.59 460.427606 
+L 688.59 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 20.034 125.022806 
+L 661.176 125.022806 
+Q 666.756 125.022806 666.756 119.478806 
+L 666.756 76.790006 
+Q 666.756 71.246006 661.176 71.246006 
+L 20.034 71.246006 
+Q 14.454 71.246006 14.454 76.790006 
+L 14.454 119.478806 
+Q 14.454 125.022806 20.034 125.022806 
+z
+" clip-path="url(#pc9b347682e)" style="fill: #eef4f7"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 20.034 186.006806 
+L 661.176 186.006806 
+Q 666.756 186.006806 666.756 180.462806 
+L 666.756 137.774006 
+Q 666.756 132.230006 661.176 132.230006 
+L 20.034 132.230006 
+Q 14.454 132.230006 14.454 137.774006 
+L 14.454 180.462806 
+Q 14.454 186.006806 20.034 186.006806 
+z
+" clip-path="url(#pc9b347682e)" style="fill: #eef4f7"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 20.034 246.990806 
+L 661.176 246.990806 
+Q 666.756 246.990806 666.756 241.446806 
+L 666.756 198.758006 
+Q 666.756 193.214006 661.176 193.214006 
+L 20.034 193.214006 
+Q 14.454 193.214006 14.454 198.758006 
+L 14.454 241.446806 
+Q 14.454 246.990806 20.034 246.990806 
+z
+" clip-path="url(#pc9b347682e)" style="fill: #eef4f7"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 20.034 307.974806 
+L 661.176 307.974806 
+Q 666.756 307.974806 666.756 302.430806 
+L 666.756 259.742006 
+Q 666.756 254.198006 661.176 254.198006 
+L 20.034 254.198006 
+Q 14.454 254.198006 14.454 259.742006 
+L 14.454 302.430806 
+Q 14.454 307.974806 20.034 307.974806 
+z
+" clip-path="url(#pc9b347682e)" style="fill: #eef4f7"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 20.034 368.958806 
+L 661.176 368.958806 
+Q 666.756 368.958806 666.756 363.414806 
+L 666.756 320.726006 
+Q 666.756 315.182006 661.176 315.182006 
+L 20.034 315.182006 
+Q 14.454 315.182006 14.454 320.726006 
+L 14.454 363.414806 
+Q 14.454 368.958806 20.034 368.958806 
+z
+" clip-path="url(#pc9b347682e)" style="fill: #eef4f7"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #18374b" x="15.57" y="24.676406" transform="rotate(-0 15.57 24.676406)">Five ways to improve collision detection</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #687b89" x="15.57" y="50.733206" transform="rotate(-0 15.57 50.733206)">One experiment completed now. Four directions still need development or more data.</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #087f8c" x="33.984" y="102.792753" transform="rotate(-0 33.984 102.792753)">1</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #18374b" x="61.884" y="90.095606" transform="rotate(-0 61.884 90.095606)">Count whole collisions</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #18374b" x="61.884" y="111.717206" transform="rotate(-0 61.884 111.717206)">Tune the score cutoff and gap between positive samples.</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #087f8c" x="650.574" y="89.541206" transform="rotate(-0 650.574 89.541206)">TESTED NOW</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #c18932" x="33.984" y="163.776753" transform="rotate(-0 33.984 163.776753)">2</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #18374b" x="61.884" y="151.079606" transform="rotate(-0 61.884 151.079606)">Learn the movement sequence</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #18374b" x="61.884" y="172.701206" transform="rotate(-0 61.884 172.701206)">Try LSTM, GRU or TCN after adding independent labeled videos.</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #c18932" x="650.574" y="150.525206" transform="rotate(-0 650.574 150.525206)">AFTER MORE DATA</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #c18932" x="33.984" y="224.760753" transform="rotate(-0 33.984 224.760753)">3</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #18374b" x="61.884" y="212.063606" transform="rotate(-0 61.884 212.063606)">Track the two tips together</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #18374b" x="61.884" y="233.685206" transform="rotate(-0 61.884 233.685206)">Model relative motion and shared uncertainty; test an IMM extension.</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #c18932" x="650.574" y="211.509206" transform="rotate(-0 650.574 211.509206)">PROPOSED</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #c18932" x="33.984" y="285.744753" transform="rotate(-0 33.984 285.744753)">4</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #18374b" x="61.884" y="273.047606" transform="rotate(-0 61.884 273.047606)">Keep the correct tip identity</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #18374b" x="61.884" y="294.669206" transform="rotate(-0 61.884 294.669206)">Use appearance or low-confidence detections to reconnect tracks.</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #c18932" x="650.574" y="272.493206" transform="rotate(-0 650.574 272.493206)">PROPOSED</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #c18932" x="33.984" y="346.728753" transform="rotate(-0 33.984 346.728753)">5</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #18374b" x="61.884" y="334.031606" transform="rotate(-0 61.884 334.031606)">Add more labeled videos</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #18374b" x="61.884" y="355.653206" transform="rotate(-0 61.884 355.653206)">Include different trainees, motions, lighting and hidden-tip examples.</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #c18932" x="650.574" y="333.477206" transform="rotate(-0 650.574 333.477206)">DATA NEEDED</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #087f8c" x="15.57" y="421.626806" transform="rotate(-0 15.57 421.626806)">Current test:  same classifier scores  +  validation-selected threshold and gap  -&gt;  collision events</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #687b89" x="15.57" y="446.574806" transform="rotate(-0 15.57 446.574806)">A proposal is not a measured improvement. Compare every extension on held-out video groups.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pc9b347682e">
+   <rect x="7.2" y="9.707606" width="669.6" height="443.52"/>
+  </clipPath>
+ </defs>
+</svg>

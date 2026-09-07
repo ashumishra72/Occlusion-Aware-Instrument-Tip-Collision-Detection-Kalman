@@ -1,0 +1,25 @@
+strategy,model,missing_tip,n,positives,f1
+Frame-focused thresholds,Original43_RF,1,1008,315,0.44809866392600206
+Frame-focused thresholds,Original43_XGB,1,1008,315,0.4462809917355372
+Frame-focused thresholds,Kalman_RF,1,1008,315,0.44811753902662993
+Frame-focused thresholds,Kalman_XGB,1,1008,315,0.4538310412573674
+Frame-focused thresholds,KalmanTemporal_RF,1,1008,315,0.5038314176245211
+Frame-focused thresholds,KalmanTemporal_XGB,1,1008,315,0.4737903225806452
+Frame-focused thresholds,Original43_RF,0,2909,243,0.20475319926873858
+Frame-focused thresholds,Original43_XGB,0,2909,243,0.16369529983792544
+Frame-focused thresholds,Kalman_RF,0,2909,243,0.16062176165803108
+Frame-focused thresholds,Kalman_XGB,0,2909,243,0.16417910447761194
+Frame-focused thresholds,KalmanTemporal_RF,0,2909,243,0.21061499578770007
+Frame-focused thresholds,KalmanTemporal_XGB,0,2909,243,0.19146919431279621
+Event-focused thresholds,Original43_RF,1,1008,315,0.42409638554216866
+Event-focused thresholds,Original43_XGB,1,1008,315,0.40543601359003395
+Event-focused thresholds,Kalman_RF,1,1008,315,0.4337851929092805
+Event-focused thresholds,Kalman_XGB,1,1008,315,0.39952153110047844
+Event-focused thresholds,KalmanTemporal_RF,1,1008,315,0.45348837209302323
+Event-focused thresholds,KalmanTemporal_XGB,1,1008,315,0.4748040313549832
+Event-focused thresholds,Original43_RF,0,2909,243,0.18101545253863136
+Event-focused thresholds,Original43_XGB,0,2909,243,0.17591623036649215
+Event-focused thresholds,Kalman_RF,0,2909,243,0.19360131255127153
+Event-focused thresholds,Kalman_XGB,0,2909,243,0.1731684110371075
+Event-focused thresholds,KalmanTemporal_RF,0,2909,243,0.20081967213114754
+Event-focused thresholds,KalmanTemporal_XGB,0,2909,243,0.2059800664451827
